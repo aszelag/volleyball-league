@@ -9,7 +9,7 @@ public class Aplication {
         team1.addPlayer(player1);
         team1.addPlayer(player2);
 
-        
+
 
     }
 }
